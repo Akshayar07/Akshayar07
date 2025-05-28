@@ -1,14 +1,12 @@
-# Hey there, I'm Akshaya 👋
+## Hey there, I'm Akshaya 👋
 
-Flutter developer by day, world explorer by weekend.
-Currently turning bucket list dreams into bucket filler realities.
+🎯 I build beautiful, fast mobile apps with **Flutter** — and I'm kinda obsessed with making UI smart, dynamic, and scalable.
 
 ## What I'm vibing with lately
 - 🔭 Building: Cross-platform apps that don't suck
 - 🌱 Learning: The latest Flutter updates (they move fast!)
 - 💬 Ask me about: Flutter widgets, travel hacks, or the best dog breeds
-- ⚡ Fun fact: I've debugged code in [X] different countries
-- 🐕 Dog tax: [Link to dog photos if you want]
+- ⚡ Fun fact: I've debugged code in X different countries
 
 ## My mobile toolkit
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -16,4 +14,4 @@ Currently turning bucket list dreams into bucket filler realities.
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## Let's connect and build something awesome! 🚀
-[Social links with travel/tech themed emojis]
+[[LinkedIn](https://www.linkedin.com/in/akshaya-radha-krishnan-462277225/)]
