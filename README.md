@@ -5,7 +5,7 @@
 ## What I'm vibing with lately
 - 🔭 Building: Cross-platform apps that don't suck
 - 🌱 Learning: The latest Flutter updates (they move fast!)
-- 💬 Ask me about: Flutter widgets, travel hacks, or the best dog breeds
+- 💬 Ask me about: Flutter widgets, travel hacks
 - ⚡ Fun fact: I've debugged code in X different countries
 
 ## My mobile toolkit
