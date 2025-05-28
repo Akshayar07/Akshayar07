@@ -8,6 +8,12 @@
 - 💬 Ask me about: Flutter widgets, travel hacks
 - ⚡ Fun fact: I've debugged code in X different countries
 
+## Currently in my rotation 🎧
+- 📱 Day mission: Creating Flutter apps that users love
+- 🌍 Side quest: Planning my next travel adventure
+- 📚 Learning: Advanced Flutter animations
+
+
 ## My mobile toolkit
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
